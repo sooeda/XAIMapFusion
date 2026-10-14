@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets
+.env
+
+# Model weights
+*.pth
+*.pt
+
+# Experiment outputs
+outputs/
+results/
+
+# Medical data
+data/
+*.nii
+*.nii.gz
+*.dcm
+
+# Jupyter
+.ipynb_checkpoints/
